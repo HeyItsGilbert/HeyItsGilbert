@@ -1,13 +1,13 @@
 ### Hey! It's Gilbert 👋🤹🏻‍♂️
 
-I'm a Señor Systems Engineer at Facebook specifically working on Windows in the Corporate environmnet.
+I'm a Señor Systems Engineer at Facebook specifically working on Windows in the Enterprise Engineering environmnet (ask me about it).
 
 - 🔭 I’m currently working on automating WSUS and internalizing PowerShell repositories.
 - 👯 I’m looking to collaborate on OSR Gaming and PowerShell
-- 💬 Ask me about PowerShell or Bass Fishing
-- 😄 Pronouns: He/Him
+- 💬 Ask me about PowerShell or Fishing
+- 😄 Pronouns: He/Him/His
 - 🐦 I tweet [@HeyItsGilbert](https://twitter.com/HeyItsGilbert)
-- 📝 I blog at [gilbertsanchez.com](gilbertsanchez.com)
+- 📝 I blog infrequently at [gilbertsanchez.com](gilbertsanchez.com)
 
 <!--
 **HeyItsGilbert/HeyItsGilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
