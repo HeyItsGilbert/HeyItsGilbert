@@ -1,6 +1,6 @@
 ### Hey! It's Gilbert 👋🤹🏻‍♂️
 
-I'm a Señor Systems Engineer at Facebook specifically working on Windows in the Enterprise Engineering environmnet (ask me about it).
+I'm a Señor Systems Engineer at Facebook specifically working on Windows in the Enterprise Engineering environment (ask me about it).
 
 - 🔭 I’m currently working on automating WSUS and internalizing PowerShell repositories.
 - 👯 I’m looking to collaborate on OSR Gaming and PowerShell
