@@ -7,7 +7,7 @@ I'm a Señor Systems Engineer at Facebook specifically working on Windows in the
 - 💬 Ask me about PowerShell or Fishing
 - 😄 Pronouns: He/Him/His
 - 🐦 I tweet [@HeyItsGilbert](https://twitter.com/HeyItsGilbert)
-- 📝 I blog infrequently at [gilbertsanchez.com](gilbertsanchez.com)
+- 📝 I blog infrequently at [gilbertsanchez.com](https://gilbertsanchez.com)
 
 <!--
 **HeyItsGilbert/HeyItsGilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
