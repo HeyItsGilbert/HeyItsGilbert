@@ -6,7 +6,7 @@ I'm a Señor Systems Engineer at Facebook specifically working on Windows in the
 - 👯 I’m looking to collaborate on OSR Gaming and PowerShell
 - 💬 Ask me about PowerShell or Fishing
 - 😄 Pronouns: He/Him/His
-- 🐦 I tweet [@HeyItsGilbert](https://twitter.com/HeyItsGilbert)
+- 🐦 I tweet [@HeyItsGilbertS](https://twitter.com/HeyItsGilbertS)
 - 📝 I blog infrequently at [gilbertsanchez.com](https://gilbertsanchez.com)
 
 <!--
