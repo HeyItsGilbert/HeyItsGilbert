@@ -6,7 +6,7 @@ I'm a Señor Systems Engineer at Meta specifically working on Windows in the Ent
 - 🤝 I’m looking to collaborate on OSR Gaming and PowerShell
 - 💬 Ask me about PowerShell, Chef, or Fishing
 - 😄 Pronouns: He/Him/His
-- 🌲 You can see all my social media links at [HeyItsGilbert on LinkTree](https://linktr.ee/HeyItsGilbert)
+- 🌲 You can see all my social media links at my [LittleLink](https://links.gilbertsanchez.com/)
 
 <!--
 **HeyItsGilbert/HeyItsGilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
