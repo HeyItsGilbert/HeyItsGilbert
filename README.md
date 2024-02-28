@@ -1,6 +1,6 @@
 ### Hey! It's Gilbert 👋🤹🏻‍♂️
 
-I'm a Señor Systems Engineer at Meta specifically working on Windows in the Enterprise Engineering environment (ask me about it).
+I'm a Staff Software Development Engineer at Tesla specifically working on PowerShell.
 
 - 🔭 I’m currently working on streamlining PowerShell module builds.
 - 🤝 I’m looking to collaborate on OSR Gaming and PowerShell
